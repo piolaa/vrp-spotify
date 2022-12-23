@@ -1,4 +1,4 @@
-# ZIRIX V2
+# VRP SPOTIFY
 **ZIRIX é uma base vRPex para FiveM, com um conjunto de scripts da comunidade e do grupo de desenvolvimento da ZIRAFLIX**.
 
 ## Versão gratuita e atualizada!
@@ -8,9 +8,8 @@ Está versão passará constantemente por atualizações, implementando novos sc
 Caso o download da base esteja corrompendo, baixe utilizando o [GitHub Desktop](https://desktop.github.com).
 
 ## Suporte
-Você pode buscar suporte em nosso [Discord](https://discord.gg/kYFy8JwVfd). 
+Você pode me chamar no discord: [piola#6175](discord.gg/J4h6KPU8). 
 
 ## Contato
-- **Comercial: contato@ziraflix.com**
-- **Discord: https://discord.gg/kYFy8JwVfd**
-- **Website: https://ziraflix.com.br**
+- **Discord: discord.gg/J4h6KPU8**
+- **Website: https://piola.gg**
