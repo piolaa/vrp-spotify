@@ -10,7 +10,7 @@ Esta versão passará constantemente por atualizações, implementando novos scr
 Caso o download da base esteja corrompendo, baixe utilizando o [GitHub Desktop](https://desktop.github.com).
 
 ## Suporte
-Você pode me chamar no discord: [piola#6175](discord.gg/J4h6KPU8). 
+Você pode me chamar no discord: [piola#6175](https://discord.gg/J4h6KPU8). 
 
 ## Contato
 - **Discord: https://discord.gg/J4h6KPU8**
